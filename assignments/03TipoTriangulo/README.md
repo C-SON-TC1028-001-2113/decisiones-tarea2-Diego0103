@@ -12,6 +12,8 @@ def main():
     lado2 = int(input("Ingresa la medida del lado 2: "))
     lado3 = int(input("Ingresa la medida del lado 3: "))
 
+    
+
 
 if __name__ == '__main__':
     main()
